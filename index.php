@@ -1,4 +1,3 @@
-<link href="vista/headerindex.php" rel="import" />
 <?php require("vista/headerindex.php"); 
 // remove all session variables
 session_unset();
